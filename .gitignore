@@ -1,0 +1,32 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Logs / crash dumps
+*.log
+*.dmp
+
+# Optional: keep workspace clean
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+
+# Packaging / staging
+StagedBuilds/
+
